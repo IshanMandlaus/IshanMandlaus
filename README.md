@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Eslupmi
+- 👋 Hi, I’m @IshanMandlaus
 
-- I am currently learning Computer Science at UWO
+- I have conffered my degree from UWO.
+- I am currently working in positions for finance.
 
